@@ -7,6 +7,6 @@
 # More advanced/new features:
 
 - [ ] Start work on `tf.Variable`, but coordinate with @Arafatk this soon.
-- [ ] Start work on `tf.Constant`, but coordinate with @chrhansen
+- [ ] Start work on `tf.Constant`, but coordinate with @chrhansen.
 - [ ] Look at the Basic Usage tutorial. What are we missing to be able to complete this?
 - [ ] If you're strong in setting up Travsis-CI + C-compilers, help me with chrhansen/tensorflow.rb#1 which I'm currently struggling with https://travis-ci.org/chrhansen/tensorflow.rb/builds/145432105
